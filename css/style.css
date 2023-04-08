@@ -9,6 +9,10 @@ html {
 
 }
 
+h3 {
+    font-family: "Montserrat", sans-serif;
+}
+
 body {
     background-image: url('https://p4.wallpaperbetter.com/wallpaper/442/338/487/red-forest-3840x2160-4k-wallpaper-preview.jpg');
     background-size: cover;
